@@ -1,0 +1,8 @@
+{
+  "name": "webpack-for-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jumoGAN/webpackForDemo.git",
+  "author": "俱沫 <negivup@sina.com>",
+  "license": "MIT"
+}
